@@ -1,0 +1,5 @@
+# Función input()
+nombre = input('Digite su Nombre :')
+edad = input('Digite su Edad :')
+estatura = input('Digite su Estatura :')
+print(nombre, edad, estatura)
